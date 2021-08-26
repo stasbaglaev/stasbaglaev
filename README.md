@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Stas 👋
+Successfully completed training at the training center of the IT company Neoflex. Also took the course "Java. Basic course" on the platform [stepic.org](https://stepik.org/course/187/syllabus). Now I am ready to start my journey as a Java developer.
 
-<!--
-**stasbaglaev/stasbaglaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Technical Skill
+*   Java Core
+*   Maven
+*   Git
+*   some Design patterns
+*   MSSQL Server, MySQL Workbench
+*   Spring Framework - in the process of studying
+*   GitHub/GitLab/Bitbucket
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+   📫 How to reach me: <a href='mailto:stasbaglaev@yandex.ru'>stasbaglaev@yandex.ru</a>
+</p>
